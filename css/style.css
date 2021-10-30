@@ -162,7 +162,7 @@ figure figcaption {
   position: relative;
   padding: 10px 10px;
   letter-spacing: .2em;
-  font-family: "Cursive", Arial, sans-serif;
+  font-family: "roboto", Arial, sans-serif;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
